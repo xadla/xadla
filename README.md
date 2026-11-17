@@ -90,7 +90,7 @@ A full-stack web application for experimenting with machine-learning workflows t
 
 `FastAPI` `React` `TypeScript` `PostgreSQL` `Redis` `Celery` `Docker` `Nginx`
 
-🔗 **Repository:** [ML Playground](https://github.com/xadla/ml-play)
+🔗 **Repository:** [ML Playground](https://github.com/xadla/ml-playground)
 
 ---
 
